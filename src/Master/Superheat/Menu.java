@@ -38,11 +38,13 @@ public class Menu {
 
     public static Equipment equipment = Equipment.FIRE_RUNE;
     public static BarType barType = BarType.UNSELECTED;
+    public static boolean goldsmithGaunt = false;
 
     public static void handle(MenuEvent e) {
         final JMenu optionsMenu = (JMenu) e.getSource();
 
         // define menu items
+
         // Equipment
         JMenu equipmentMenu = new JMenu("Equipment");
         ButtonGroup equipmentButtonGroup = new ButtonGroup();
@@ -62,6 +64,13 @@ public class Menu {
                 equipment = Equipment.STAFF_OF_FIRE;
             }
         });
+        JCheckBoxMenuItem goldsmithingGauntlets = new JCheckBoxMenuItem("Use Goldsmithing Gauntlets");
+        goldsmithingGauntlets.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                goldsmithGaunt = !goldsmithGaunt;
+            }
+        });
 
         // set selected
         switch (equipment) {
@@ -72,6 +81,7 @@ public class Menu {
                 staffOfFire.setSelected(true);
                 break;
         }
+        goldsmithingGauntlets.setSelected(goldsmithGaunt);
 
         // add to button group
         equipmentButtonGroup.add(fireRunes);
@@ -81,6 +91,8 @@ public class Menu {
         equipmentMenu.add(fireRunes);
         equipmentMenu.addSeparator();
         equipmentMenu.add(staffOfFire);
+        equipmentMenu.addSeparator();
+        equipmentMenu.add(goldsmithingGauntlets);
         optionsMenu.add(equipmentMenu);
 
 

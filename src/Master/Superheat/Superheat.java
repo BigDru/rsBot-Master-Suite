@@ -46,7 +46,6 @@ public class Superheat extends PollingScript<ClientContext> implements BotMenuLi
     @Override
     public void menuSelected(MenuEvent e) {
         Menu.handle(e);
-        System.out.println(e.getSource().toString());
     }
 
     @Override
