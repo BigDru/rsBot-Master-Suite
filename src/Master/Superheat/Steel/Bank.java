@@ -55,7 +55,7 @@ public class Bank extends Task<ClientContext> {
                     System.out.println("Failed Interact.");
                     tryObj = true;
                 }
-                Toolbox.sleep(5000);
+                Toolbox.sleep(2500);
                 if (!ctx.bank.opened()) {
                     tryObj = true;
                 }
@@ -76,7 +76,7 @@ public class Bank extends Task<ClientContext> {
                         System.out.println("Failed Interact.");
                         return -2;
                     }
-                    Toolbox.sleep(5000);
+                    Toolbox.sleep(2500);
                     if (!ctx.bank.opened()) {
                         return -2;
                     }

@@ -131,6 +131,7 @@ public class Superheat extends PollingScript<ClientContext> implements BotMenuLi
                 break;
             case STEEL:
                 taskList.add(new Master.Superheat.Steel.Bank(ctx));
+                taskList.add(new Master.Superheat.Steel.Cast(ctx));
                 break;
             case GOLD:
                 break;

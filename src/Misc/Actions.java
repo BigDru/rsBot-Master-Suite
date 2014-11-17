@@ -8,5 +8,6 @@ package Misc;
  * Purpose: Keep store of all actions so that no typos occur in the code.
  */
 public class Actions {
-     public static final String Bank = "Bank";
+    public static final String Bank = "Bank";
+    public static final String Cast = "Cast";
 }
