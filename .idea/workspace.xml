@@ -1,26 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Master/Superheat/Steel/Bank.java" line="73" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e8274a20-0626-44bf-b6e9-46841cd4479b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Master/MasterProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Master/Superheat/Structs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Master/Superheat/Steel/Bank.java" afterPath="$PROJECT_DIR$/src/Master/Superheat/Steel/Bank.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Misc/ItemId.java" afterPath="$PROJECT_DIR$/src/Misc/ItemId.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Master/Superheat/Menu.java" afterPath="$PROJECT_DIR$/src/Master/Superheat/Menu.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Master/Superheat/Superheat.java" afterPath="$PROJECT_DIR$/src/Master/Superheat/Superheat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Misc/Task.java" afterPath="$PROJECT_DIR$/src/Misc/Task.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Misc/Toolbox.java" afterPath="$PROJECT_DIR$/src/Misc/Toolbox.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RSBot_Dev.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Superheat.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416090650334" ignored="false" />
-    <file path="/Task.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416038429334" ignored="false" />
+    <file path="/Superheat.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416178039673" ignored="false" />
+    <file path="/Task.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416176544333" ignored="false" />
     <file path="/Bank_Withdraw.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416034369231" ignored="false" />
-    <file path="/Toolbox.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416039141518" ignored="false" />
+    <file path="/Toolbox.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416185927500" ignored="false" />
     <file path="/Withdraw.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416038680073" ignored="false" />
     <file path="/ItemIds.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416036361084" ignored="false" />
     <file path="/File Header.txt.ft" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416036333285" ignored="false" />
-    <file path="/Bank.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416046965723" ignored="false" />
+    <file path="/Bank.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416186942179" ignored="false" />
     <file path="/fragment.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416039858925" ignored="false" />
     <file path="/Dummy.txt" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416041228562" ignored="false" />
-    <file path="/ItemId.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416044903636" ignored="false" />
+    <file path="/ItemId.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416178683811" ignored="false" />
     <file path="/Actions.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416042828017" ignored="false" />
-    <file path="/Menu.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416094934613" ignored="false" />
+    <file path="/Menu.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416165150472" ignored="false" />
+    <file path="/Properties.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416163784886" ignored="false" />
+    <file path="/Structs.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416162002782" ignored="false" />
+    <file path="/MasterProperties.java" changelist="e8274a20-0626-44bf-b6e9-46841cd4479b" time="1416165040870" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,45 +93,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Superheat.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Superheat.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Master/Superheat/Superheat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="89" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.5470219">
+            <state line="35" column="35" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#842#848#0" expanded="true" />
+                <element signature="e#808#814#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bank.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Bank.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Master/Superheat/Steel/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="20" selection-start="2017" selection-end="2017" vertical-scroll-proportion="0.0">
+            <state line="157" column="9" selection-start="5737" selection-end="5737" vertical-scroll-proportion="0.8005865">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemId.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Misc/ItemId.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="52" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Actions.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Misc/Actions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="46" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -127,8 +119,19 @@
       <file leaf-file-name="Toolbox.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Misc/Toolbox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="45" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
+            <state line="27" column="11" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemId.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Misc/ItemId.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="57" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,28 +154,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Master/Toolbox.java" />
-        <option value="$PROJECT_DIR$/src/Master/Task.java" />
-        <option value="$PROJECT_DIR$/src/Master/Bank_Withdraw.java" />
         <option value="$PROJECT_DIR$/src/Misc/ItemIds.java" />
         <option value="$PROJECT_DIR$/src/Tasks/Task.java" />
         <option value="$PROJECT_DIR$/src/Tasks/Bank/Withdraw.java" />
         <option value="$PROJECT_DIR$/src/Master/Superheat.java" />
-        <option value="$PROJECT_DIR$/src/Misc/Task.java" />
-        <option value="$PROJECT_DIR$/src/Misc/Toolbox.java" />
         <option value="$PROJECT_DIR$/src/Misc/Actions.java" />
-        <option value="$PROJECT_DIR$/src/Misc/ItemId.java" />
-        <option value="$PROJECT_DIR$/src/Master/Superheat/Steel/Bank.java" />
+        <option value="$PROJECT_DIR$/src/Master/I_Properties.java" />
+        <option value="$PROJECT_DIR$/src/Misc/Properties.java" />
+        <option value="$PROJECT_DIR$/src/Master/Superheat/Properties.java" />
+        <option value="$PROJECT_DIR$/src/Master/Superheat/Structs.java" />
+        <option value="$PROJECT_DIR$/src/Master/MasterProperties.java" />
         <option value="$PROJECT_DIR$/src/Master/Superheat/Menu.java" />
+        <option value="$PROJECT_DIR$/src/Misc/Task.java" />
         <option value="$PROJECT_DIR$/src/Master/Superheat/Superheat.java" />
+        <option value="$PROJECT_DIR$/src/Misc/ItemId.java" />
+        <option value="$PROJECT_DIR$/src/Misc/Toolbox.java" />
+        <option value="$PROJECT_DIR$/src/Master/Superheat/Steel/Bank.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -271,7 +276,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Superheat" />
+              <option name="myItemId" value="Master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,11 +294,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Superheat" />
+              <option name="myItemId" value="Master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Steel" />
+              <option name="myItemId" value="Superheat" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -311,7 +316,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="fileTemplates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RSBot.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Master" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -473,29 +478,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26057908" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37372014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26057908" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850778" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.73942095" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17129135" sideWeight="0.73942095" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24318182" sideWeight="0.6262799" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -568,16 +573,80 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Misc/Toolbox.java">
+    <entry file="jar://$PROJECT_DIR$/RSBot.jar!/org/powerbot/script/rt4/Camera.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="45" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
+        <state line="6" column="13" selection-start="166" selection-end="166" vertical-scroll-proportion="-0.08">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Master/Superheat/Structs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Master/MasterProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="12" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="16" selection-start="983" selection-end="983" vertical-scroll-proportion="0.69279">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Master/Superheat/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="95" selection-start="3104" selection-end="3104" vertical-scroll-proportion="2.4247649">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#847#1033#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1164#1354#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#1508#1707#0" expanded="true" />
+            <element signature="e#1696#1697#0" expanded="true" />
+            <element signature="e#2710#2893#0" expanded="true" />
+            <element signature="e#2882#2883#0" expanded="true" />
+            <element signature="e#3003#3238#0" expanded="true" />
+            <element signature="e#3227#3228#0" expanded="true" />
+            <element signature="e#3351#3588#0" expanded="true" />
+            <element signature="e#3577#3578#0" expanded="true" />
+            <element signature="e#3692#3923#0" expanded="true" />
+            <element signature="e#3912#3913#0" expanded="true" />
+            <element signature="e#4042#4283#0" expanded="true" />
+            <element signature="e#4272#4273#0" expanded="true" />
+            <element signature="e#4393#4628#0" expanded="true" />
+            <element signature="e#4617#4618#0" expanded="true" />
+            <element signature="e#4735#4968#0" expanded="true" />
+            <element signature="e#4957#4958#0" expanded="true" />
+            <element signature="e#5072#5303#0" expanded="true" />
+            <element signature="e#5292#5293#0" expanded="true" />
+            <element signature="e#5429#5676#0" expanded="true" />
+            <element signature="e#5665#5666#0" expanded="true" />
+            <element signature="e#5789#6026#0" expanded="true" />
+            <element signature="e#6015#6016#0" expanded="true" />
+            <element signature="e#6139#6376#0" expanded="true" />
+            <element signature="e#6365#6366#0" expanded="true" />
+            <element signature="e#6492#6731#0" expanded="true" />
+            <element signature="e#6720#6721#0" expanded="true" />
+            <element signature="e#6835#7066#0" expanded="true" />
+            <element signature="e#7055#7056#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Misc/Task.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="32" selection-start="429" selection-end="429" vertical-scroll-proportion="0.57678574">
+        <state line="20" column="59" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -586,51 +655,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Misc/Actions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="46" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/RSBot.jar!/org/powerbot/script/rt4/Camera.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="166" selection-end="166" vertical-scroll-proportion="-0.08">
+        <state line="10" column="34" selection-start="233" selection-end="233" vertical-scroll-proportion="0.2951389">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Misc/ItemId.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="52" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+        <state line="22" column="57" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Misc/Toolbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="11" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Master/Superheat/Superheat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="35" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#808#814#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Master/Superheat/Steel/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="20" selection-start="2017" selection-end="2017" vertical-scroll-proportion="0.0">
+        <state line="157" column="9" selection-start="5737" selection-end="5737" vertical-scroll-proportion="0.8005865">
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Master/Superheat/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="270" column="14" selection-start="8770" selection-end="8770" vertical-scroll-proportion="0.86677116">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Master/Superheat/Superheat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="89" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.5470219">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#842#848#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,5 +1,6 @@
 package Misc;
 
+import Master.MasterProperties;
 import org.powerbot.script.ClientAccessor;
 import org.powerbot.script.rt4.ClientContext;
 
@@ -17,5 +18,5 @@ public abstract class Task<C extends ClientContext> extends ClientAccessor<C> {
 
     public abstract boolean activate();
 
-    public abstract int execute();
+    public abstract int execute(MasterProperties properties);
 }

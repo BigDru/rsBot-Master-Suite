@@ -19,4 +19,11 @@ public class Toolbox {
     public static boolean isPlayerIdle(ClientContext ctx){
         return ctx.players.local().animation()==-1;
     }
+
+    public static void sleep(int x){
+        try {
+            Thread.sleep(x);
+        } catch (InterruptedException e) {
+        }
+    }
 }
